@@ -1,6 +1,6 @@
 {
   "name": "svg-intersections",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A library of intersection algorithms covering all SVG shape types",
   "author": {
     "name": "Kevin Lindsey",
@@ -34,7 +34,7 @@
   ],
   "dependencies": {
     "kld-affine": "2.0.0",
-    "kld-polynomial": "0.1.1"
+    "kld-polynomial": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
